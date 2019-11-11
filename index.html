@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+	<meta name="generator" content="Hugo 0.55.0" />
+    <meta property="og:title" content="IT4Kids | IT-Kurse für Grundschulen" />
+<meta property="og:description" content="IT4Kids bietet spielerische IT-Kurse für Grundschulen, die Logik- und Prozess-Denken stärken." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://it-for-kids.org/" />
+
+<meta property="og:image" content="https://it-for-kids.org/img/ms-icon-310x310.png" />
+
+<meta property="og:updated_time" content="2019-11-03T12:00:00&#43;02:00"/><meta property="og:site_name" content="IT4Kids | IT-Kurse für Grundschulen" />
+
+    <meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://it-for-kids.org/img/ms-icon-310x310.png"/>
+
+<meta name="twitter:title" content="IT4Kids | IT-Kurse für Grundschulen"/>
+<meta name="twitter:description" content="IT4Kids bietet spielerische IT-Kurse für Grundschulen, die Logik- und Prozess-Denken stärken."/>
+
+    <meta property="og:url" content="https://it-for-kids.org">
+    <meta property="og:locale" content="de_DE">
+    <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<link rel="apple-touch-icon" sizes="57x57" href="/img/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/img/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/img/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/img/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/img/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/img/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/img/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/img/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/img/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="/img/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/img/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
+<link rel="manifest" href="/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/img/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+<title>IT4Kids | IT-Kurse für Grundschulen</title>
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:400,700" type="text/css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="/css/app.css">
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-139711350-1"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'UA-139711350-1');
+</script>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.0/dist/Chart.min.js"></script>
+
+
+
+    
+    
+</head>
+<body>
+
+<nav class="navbar navbar-expand-md navbar-default bg-light navbar-custom fixed-top">
+    <a class="navbar-brand" href="/">
+        <img id="logo" alt="IT4Kids Logo" src="/img/logo.svg"
+             style="height:65px;padding:7.5px;"></img>
+    </a>
+    <button class="navbar-toggler navbar-toggler-right collapsed" type="button"
+            data-toggle="collapse" data-target="#collapsibleNavbar">
+        <span> </span>
+        <span> </span>
+        <span> </span>
+    </button>
+    
+    <div class="collapse navbar-collapse" id="collapsibleNavbar">
+        <ul class="navbar-nav ml-auto text-center">
+            
+            
+            
+            <li class="nav-item  active">
+                <a class="nav-link" href="/">Home</a>
+            </li>
+            
+            
+            
+            <li class="nav-item ">
+                <a class="nav-link" href="/vision/">Vision</a>
+            </li>
+            
+            
+            
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#"
+                   role="button" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">
+                    Lehrmaterial
+                </a>
+                <div class="dropdown-menu">
+                    
+                    <a class="dropdown-item d-none d-sm-block" href="/lehrmaterial/">Inhalte</a>
+                    <a class="dropdown-item d-sm-none text-center" href="/lehrmaterial/">Inhalte</a>
+                    
+                    <a class="dropdown-item d-none d-sm-block" href="/projekte/">Projekte</a>
+                    <a class="dropdown-item d-sm-none text-center" href="/projekte/">Projekte</a>
+                    
+                    <a class="dropdown-item d-none d-sm-block" href="/software/">Software</a>
+                    <a class="dropdown-item d-sm-none text-center" href="/software/">Software</a>
+                    
+                </div>
+            </li>
+            
+            
+            
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#"
+                   role="button" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">
+                    Kursangebot
+                </a>
+                <div class="dropdown-menu">
+                    
+                    <a class="dropdown-item d-none d-sm-block" href="/schulen/">Für Schulen</a>
+                    <a class="dropdown-item d-sm-none text-center" href="/schulen/">Für Schulen</a>
+                    
+                    <a class="dropdown-item d-none d-sm-block" href="/mitmachen/">Für Kursleiter</a>
+                    <a class="dropdown-item d-sm-none text-center" href="/mitmachen/">Für Kursleiter</a>
+                    
+                </div>
+            </li>
+            
+            
+            
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#"
+                   role="button" data-toggle="dropdown" aria-haspopup="true"
+                   aria-expanded="false">
+                    Über uns
+                </a>
+                <div class="dropdown-menu">
+                    
+                    <a class="dropdown-item d-none d-sm-block" href="/blog/">Blog</a>
+                    <a class="dropdown-item d-sm-none text-center" href="/blog/">Blog</a>
+                    
+                    <a class="dropdown-item d-none d-sm-block" href="/status/">Status</a>
+                    <a class="dropdown-item d-sm-none text-center" href="/status/">Status</a>
+                    
+                    <a class="dropdown-item d-none d-sm-block" href="/team/">Team</a>
+                    <a class="dropdown-item d-sm-none text-center" href="/team/">Team</a>
+                    
+                </div>
+            </li>
+            
+            
+            <li class="nav-item">
+                <a class="btn btn-primary ml-2 mr-2" href="/mitmachen">Jetzt mitmachen!</a>
+            </li>
+        </ul>
+    </div>
+    
+</nav>
+
+<div class="pt-0 pt-md-5" style="margin-top: 100px">
+    
+<section id="main" class="pb-0 mb-5 mb-sm-5 pb-sm-4">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-4 d-none d-md-block text-center">
+                <div class="row text-center">
+                    <img alt="Cubi Robot" src="/img/cubi-animated.gif" style="height:150px;margin-left:auto;margin-right:auto;" id="robot">
+                </div>
+            </div>
+            <div class="col-12 col-md-8">
+                <div class="row">
+                    <div class="pl-3 pr-2 col-3 d-md-none text-center">
+                            <img alt="Cubi Robot" class="img-fluid" src="/img/cubi-animated.gif" style="max-height: 50px;top:50%;position: relative" id="robotSmall">
+                    </div>
+                    <div class="pl-0 mt-4 col-9 col-md-12">
+                        <p style="color:gray">
+                            <span class="fa fa-quote-left mb-2" style="font-size: 15px;opacity: 0.2;"></span><br>
+                            <i>Everybody should learn how to <strong style="color:black">code</strong>, because it teaches you how to <strong style="color:black">think</strong>.
+                                <br>
+                                <span style="color:black;font-size: small;">- Steve Jobs</span>
+                            </i>
+                        </p>
+                    </div>
+                </div>
+                <ul class="console center" style="transform: scale(1, 1); display: block;list-style: none">
+    <div class="float-right reset" data-toggle="tooltip" title="Replay">
+        <a href="#!" onclick="typed.reset()"><i class="fas fa-redo" style="font-size: 18px;color: #444"></i></a>
+    </div>
+    <li><span class="user">[I4K]~ Was ist IT4Kids?</span></li>
+    <li><span>[I4K]~</span> <span class="main_text"></span><span id="typed-cursor"></span></li>
+    <a href="/vision/" style="right: 10px;bottom: 5px;position: absolute;">Mehr erfahren</a>
+</ul>
+<script src="/js/typed.js"></script>
+<script>
+    var typed = new Typed('.main_text', {
+        strings: [
+            "IT4Kids ist ein studentisches Projekt, das Informatik-Kurse für die 3. bis 6. Klasse anbietet. <a href=\"#mitmachen\">Jetzt Kontakt aufnehmen!</a>"
+        ],
+        typeSpeed: 20,
+        backSpeed: 10,
+        backDelay: 1500,
+        startDelay: 300,
+        loop: false,
+    });
+</script>
+
+            </div>
+        </div>
+        <div class="row mt-5">
+            <div class="col">
+                <p class="lead mb-3">
+                    IT4Kids bietet altersgerechte IT-Kurse für die 3. bis 6. Klasse, die Logik-
+                    und Prozessdenken fördern.
+                </p>
+                <p class="lead mb-3">
+                    Unsere studentischen Lehrkräfte sind technisch veranlagt und werden zusätzlich durch erprobtes Kursmaterial unterstützt.
+                    Das sorgt für eine hohe Lehrkompetenz bei günstigem Kurspreis.
+                </p>
+                <p class="lead mb-3 d-none d-md-block">
+                    <a class="btn btn-primary btn-lg" href="/mitmachen">Student? Jetzt Tutor werden!</a>
+                </p>
+            </div>
+        </div>
+        <div class="row d-block d-md-none text-center">
+            <div class="col">
+                <a class="btn btn-primary btn-block btn-lg" href="/mitmachen">Student? Jetzt Tutor werden!</a>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="cards" style="background:url('/img/hypnotize.png');">
+    <div class="container">
+        <div class="row" >
+            <div class="col-md-6 pb-4">
+                <div class="card text-center" style="height:320px;margin-top: -50px;">
+                    <h3 class="heading" style="font-size: xx-large;padding-top:10%" id="lehrmaterialHeading">Lehrmaterial</h3>
+                    <p style="padding: 10px;background-color:rgba(255, 255, 255, 0.67);">
+                        Wir bieten seit mehreren Jahren Kurse an,
+                        die Logik- und Prozessdenken fördern.
+                        Aus unserem mehrfach ausgezeichneten Model gießen wir gerade ein ganzheitliches Konzept,
+                        das IT4Kids an jeder Schule ermöglicht.
+                    </p>
+                    <div style="position: absolute; bottom: 15px;right: 25px;">
+                        <a href="/lehrmaterial/">Mehr Erfahren</a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 pb-4">
+                <div class="card card2 text-center" style="height:320px;margin-top: -50px">
+                    <h3 class="heading" style="font-size: xx-large;padding-top:10%" id="softwareHeading">Software</h3>
+                    <p style="padding:10px;background-color:rgba(255, 255, 255, 0.67);">
+                        Unsere Kurse arbeiten noch mit <a href="https://scratch.mit.edu/">Scratch</a> vom MIT.
+                        Doch wir wollen die einfache Bedienung noch um einige Features wie integrierte Lernhilfen,
+                        Fortschritts-Tracking und Vorlagen in unserer eigenen <a href="/software">Software</a> erweitern.
+                        Diese wird bereits in den ersten Kursen getestet.
+                    </p>
+                    <div style="position: absolute;bottom: 15px;right: 25px;">
+                        <a href="/software/">Mehr Erfahren</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="infoVideo">
+    <div class="container">
+        <div class="row">
+            <h3 class="p-2 text-center center heading">IT4KIDS in 80 Sekunden</h3>
+        </div>
+    </div>
+    <div style="background:url('/img/hypnotize.png');">
+        <div class="container">
+            <div class="row">
+                <div class="col-12 col-md-10 offset-md-1 px-4" style="background: white">
+                    <div class="embed-responsive embed-responsive-16by9 i4k-embed-frame">
+                        <iframe class="embed-responsive-item"
+                                src="https://www.youtube.com/embed/w6uAySoSqi8?modestbranding=1"
+                                allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="blog">
+    <div class="container">
+        <div class="row">
+            <h3 class="center heading">Blog</h3>
+        </div>
+        <div class="row text-center">
+            <p class="center text-muted" style="max-width:500px;">
+                In unserem Blog können Sie unsere aktuellen Beiträge zum Thema Digitalbildung und Sozialunternehmertum in der Bildungsbranche lesen.
+            </p>
+        </div>
+        <div class="row">
+            
+                
+<div class="col-md-4 col-sm-6 col-12 mb-5">
+    <div class="card h-100">
+        
+        
+        <div style="height:150px;overflow:hidden"><img class="card-img-top" src="/blog/190405_girlsday/image.jpg" alt="Post Image"></div>
+        
+        
+        <div class="card-body">
+            <h4 class="card-title">Girls’Day mit IT4Kids im digitalHub Aachen </h4>
+            <p class="card-text"><p>Willkommen in der Monsterwerkstatt!</p>
+
+<p>Man nehme 125 Calliope mini, rund 100 Mädchen, 3m² Basteltisch …</p></p>
+        </div>
+        <div class="card-footer">
+            <a href="/blog/190405_girlsday/" class="btn btn-primary">Weiterlesen</a>
+        </div>
+    </div>
+</div>
+
+            
+                
+<div class="col-md-4 col-sm-6 col-12 mb-5">
+    <div class="card h-100">
+        
+        
+        <div style="height:150px;overflow:hidden"><img class="card-img-top" src="/blog/ggsbranderfeld/image.jpg" alt="Post Image"></div>
+        
+        
+        <div class="card-body">
+            <h4 class="card-title">IT4Kids im Regelunterricht</h4>
+            <p class="card-text"><p><strong>Mathebücher weg, holt die Laptops raus!</strong> - Ein Einblick in den Kursalltag.</p>
+
+<p>Du wolltest immer schon …</p></p>
+        </div>
+        <div class="card-footer">
+            <a href="/blog/ggsbranderfeld/" class="btn btn-primary">Weiterlesen</a>
+        </div>
+    </div>
+</div>
+
+            
+                
+<div class="col-md-4 col-sm-6 col-12 mb-5">
+    <div class="card h-100">
+        
+        
+        <div style="height:150px;overflow:hidden"><img class="card-img-top" src="/blog/medienroute18/image.jpg" alt="Post Image"></div>
+        
+        
+        <div class="card-body">
+            <h4 class="card-title">Medienroute Aachen - Digitale Bildung im Fokus</h4>
+            <p class="card-text"><p>Am 07.11.2018 fand im Raum Aachen und Heinsberg die Medienroute statt.
+Dabei hatten Schulen und …</p></p>
+        </div>
+        <div class="card-footer">
+            <a href="/blog/medienroute18/" class="btn btn-primary">Weiterlesen</a>
+        </div>
+    </div>
+</div>
+
+            
+        </div>
+    </div>
+</section>
+
+<section id="team" >
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center pb-5">
+                <div class="heading" style="
+                    font-family: Montserrat, Helvetica Neue, Helvetica, Arial, sans-serif;
+                    text-transform: uppercase;
+                    font-weight: 700;
+                    font-size: xx-large;
+                ">Unser Team</div>
+                <div class="section-subheading text-muted">Diese Leute ermöglichen IT4Kids.</div>
+            </div>
+        </div>
+        <div class="row h-100">
+            <div class="col-md-7 col-12 mb-4">
+                <a href="/team/">
+                <img src="/img/team.jpg" class="img-fluid" alt="Responsive image" style="box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);">
+                </a>
+            </div>
+            <div class="col-md-5 col-12 my-auto">
+                <div class="team-text">
+                    <p style="margin-top:auto;font-size: medium;">
+                        IT4Kids ist ein Team aus Studierenden der Initiative <a href="http://aachen.enactus.de/">Enactus Aachen e.V.</a>.
+                        Wir sind aus unterschiedlichen Fachrichtungen und Disziplinen, aber haben alle dasselbe Ziel:
+                        Informatikbildung für Kinder. Erfahre <a href="/team/">hier</a> mehr über uns.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section id="mitmachen">
+   <div class="container">
+      <div class="center" style="max-width:800px;">
+         <div class="row">
+            <h2 class="center section-heading" style="color: #1961ac; font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif; text-transform: uppercase; font-weight: 700;">Schreibt uns!</h2>
+         </div>
+         <div class="row pt-3">
+            <h4 class="center section-subheading text-muted" style="text-align: center">Sie wollen IT4Kids an Ihrer Schule?</h4>
+            <h4 class="center section-subheading text-muted" style="text-align: center">Du möchtest Kursbetreuer werden?</h4>
+            <h4 class="center section-subheading text-muted" style="text-align: center">Du möchtest dich einfach mit uns austauschen?</h4>
+         </div>
+         <div class="row">
+            <div class="col-sm-6">
+               <aside class="sidebar">
+                  <div class="single contact-info">
+                     <h3 class="side-title">Kontakt</h3>
+                     <ul class="list-unstyled">
+                        <li>
+                           <div class="icon"><i class="fas fa-envelope"></i></div>
+                           <div class="info">
+                              <p>Allgemeine Anfragen:<br><a href="mailto:info@it-for-kids.org">info@it-for-kids.org</a></p>
+                           </div>
+                        </li>
+                        <li>
+                           <div class="icon"><i class="fas fa-envelope"></i></div>
+                           <div class="info">
+                               <p>Kursleiter werden:<br>Du kannst <a href="/mitmachen">jetzt bei uns mitmachen</a>!</p>
+                           </div>
+                        </li>
+
+                     </ul>
+                  </div>
+               </aside>
+            </div>
+            <div class="col-sm-6">
+               <aside class="sidebar">
+                  <div class="single contact-info">
+                     <h3 class="side-title">Social Media</h3>
+                     <ul class="list-unstyled">
+                        <li>
+                           <div class="icon"><i class="fab fa-facebook-f"></i></div>
+                           <div class="info">
+                              <p>Facebook:<br><a href="https://www.facebook.com/itforkids.org/">IT4Kids</a></p>
+                           </div>
+                        </li>
+                        <li>
+                           <div class="icon"><i class="fab fa-instagram"></i></div>
+                           <div class="info">
+                              <p>Instagram:<br><a href="https://www.instagram.com/it4kids.ac/">it4kids.ac</a></p>
+                           </div>
+                        </li>
+                     </ul>
+                  </div>
+               </aside>
+            </div>
+         </div>
+      </div>
+   </div>
+</section>
+
+
+</div>
+<footer>
+    <div class="container pt-5">
+        <div id="footer-row" class="row">
+            <div class="col-4 footer-col">
+                <ul class="list-inline">
+                    <li class="list-inline-item">
+                        <span class="copyright">Copyright &copy; <script>document.write(new Date().getFullYear())</script> IT4Kids</span>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-4 footer-col">
+                <ul class="list-inline social-buttons">
+                    <li class="list-inline-item">
+                        <a href="https://www.facebook.com/itforkids.org/"><i class="fab fa-facebook-f fa-2x"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://www.instagram.com/it4kids.ac/"><i class="fab fa-instagram fa-2x"></i></a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="https://enactus.de/aachen/"><img class="icon-img" height="35px" src="/img/enactusschwalbe.png"/></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-4 footer-col">
+                <ul class="list-inline quicklinks">
+                    <li class="list-inline-item">
+                        <a href="/impressum/">Impressum</a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a href="/datenschutz/">Datenschutz</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+
+</body>
+</html>

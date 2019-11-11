@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IT4Kids | IT-Kurse für Grundschulen</title>
+    <link>https://it-for-kids.org/</link>
+    <description>Recent content on IT4Kids | IT-Kurse für Grundschulen</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <copyright>&lt;span class=&#34;copyright&#34;&gt;Copyright &amp;copy; &lt;script&gt;document.write(new Date().getFullYear())&lt;/script&gt; IT4Kids&lt;/span&gt;</copyright>
+    <lastBuildDate>Sun, 03 Nov 2019 12:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://it-for-kids.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fynn Mazurkiewicz</title>
+      <link>https://it-for-kids.org/team/fynn-mazurkiewicz/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/fynn-mazurkiewicz/</guid>
+      <description>Projektleitung</description>
+    </item>
+    
+    <item>
+      <title>Christina Späth</title>
+      <link>https://it-for-kids.org/team/christina-spaeth/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/christina-spaeth/</guid>
+      <description>Lehrkonzept-Entwicklung</description>
+    </item>
+    
+    <item>
+      <title>Sebastian Schilling</title>
+      <link>https://it-for-kids.org/team/sebastian-schilling/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/sebastian-schilling/</guid>
+      <description>Kursorganisation</description>
+    </item>
+    
+    <item>
+      <title>Sven Mattus</title>
+      <link>https://it-for-kids.org/team/sven-mattus/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/sven-mattus/</guid>
+      <description>Kursorganisation</description>
+    </item>
+    
+    <item>
+      <title>Carl Retzlaff</title>
+      <link>https://it-for-kids.org/team/carl-retzlaff/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/carl-retzlaff/</guid>
+      <description>Software-Entwicklung</description>
+    </item>
+    
+    <item>
+      <title>Hannah Baumanns</title>
+      <link>https://it-for-kids.org/team/hannah-baumanns/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/hannah-baumanns/</guid>
+      <description>Kursorganisation</description>
+    </item>
+    
+    <item>
+      <title>Jan Agner</title>
+      <link>https://it-for-kids.org/team/jan-agner/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/jan-agner/</guid>
+      <description>Kursorganisation</description>
+    </item>
+    
+    <item>
+      <title>Andrea Thiele</title>
+      <link>https://it-for-kids.org/team/andrea-thiele/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/andrea-thiele/</guid>
+      <description>Lehrkonzept-Entwicklung</description>
+    </item>
+    
+    <item>
+      <title>Hendrik Eckelt</title>
+      <link>https://it-for-kids.org/team/hendrik-eckelt/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/hendrik-eckelt/</guid>
+      <description>Sponsoren-Management</description>
+    </item>
+    
+    <item>
+      <title>Judy Borowski</title>
+      <link>https://it-for-kids.org/team/judy-borowski/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/judy-borowski/</guid>
+      <description>Kursorganisation Tübingen</description>
+    </item>
+    
+    <item>
+      <title>Katharina Wiethoff</title>
+      <link>https://it-for-kids.org/team/katharina-wiethoff/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/katharina-wiethoff/</guid>
+      <description>Organisation &amp;amp; Marketing</description>
+    </item>
+    
+    <item>
+      <title>Max Günthner</title>
+      <link>https://it-for-kids.org/team/max-g%C3%BCnthner/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/max-g%C3%BCnthner/</guid>
+      <description>Kursorganisation Tübingen</description>
+    </item>
+    
+    <item>
+      <title>Daniel Schneider</title>
+      <link>https://it-for-kids.org/team/daniel-schneider/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/daniel-schneider/</guid>
+      <description>Lehrkonzept-Entwicklung</description>
+    </item>
+    
+    <item>
+      <title>Lucas Mosig</title>
+      <link>https://it-for-kids.org/team/lucas-mosig/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/lucas-mosig/</guid>
+      <description>Ehemalige Projektleitung</description>
+    </item>
+    
+    <item>
+      <title>Yian Liu</title>
+      <link>https://it-for-kids.org/team/yian-liu/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/yian-liu/</guid>
+      <description>Operations Leader</description>
+    </item>
+    
+    <item>
+      <title>Johanna Tolzmann</title>
+      <link>https://it-for-kids.org/team/johanna-tolzmann/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/johanna-tolzmann/</guid>
+      <description>Leitung - Lehrkonzept</description>
+    </item>
+    
+    <item>
+      <title>Lukas Dachtler</title>
+      <link>https://it-for-kids.org/team/lukas-dachtler/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/lukas-dachtler/</guid>
+      <description>Leitung - Software</description>
+    </item>
+    
+    <item>
+      <title>Puzzle</title>
+      <link>https://it-for-kids.org/puzzle/</link>
+      <pubDate>Sun, 03 Nov 2019 12:00:00 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/puzzle/</guid>
+      <description>Die Aufgabe:  Du bist auf Entdeckungsreise und suchst nach einem verborgenen Schatz. Erreiche den Eingang (helle Fläche) zur Pyramide. Doch Vorsicht! Es könnten Gefahren auf dich warten. Sammle deshalb das Schild unterwegs ein, um dich zu schützen. Dieses befindet sich jedoch zufällig auf Punkt A, B oder C.   Herzlichen Glückwunsch!  Ähnliche Aufgaben müssen auch die Schüler lösen. Dafür benötigen sie jedoch etwas Unterstützung. Deine Unterstützung!</description>
+    </item>
+    
+    <item>
+      <title>IT4Kids: Neues für Partner</title>
+      <link>https://it-for-kids.org/status/2019/q1/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/status/2019/q1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wir bringen IT4Kids an Ihre Schule!</title>
+      <link>https://it-for-kids.org/schulen/</link>
+      <pubDate>Fri, 19 Apr 2019 12:00:00 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/schulen/</guid>
+      <description>Informatik - kinderleicht! Wir bieten erprobte Inhalte und spannende Projekte an, um die Faszination der digitalen Welt erfahrbar zu machen.  Wir unterstützen Sie und Ihre Schule mit einem Rundumpaket: Der IT4Kids Kurs wird von einem unserer geschulten Kursbetreuer durchgeführt und basiert auf unser erprobtes Lehrkonzept und unsere selbstentwickelte Lehrsoftware, die die Schüler auf spielerische Weise an Programmieren und die dahinter liegende Logik heranführt. Wenn auch Sie sich spannende IT-Inhalte an Ihrer Schule wünschen oder noch Fragen haben, kontaktieren Sie uns gerne über das nebenstehende Formular.</description>
+    </item>
+    
+    <item>
+      <title>Girls’Day mit IT4Kids im digitalHub Aachen </title>
+      <link>https://it-for-kids.org/blog/190405_girlsday/</link>
+      <pubDate>Fri, 05 Apr 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/blog/190405_girlsday/</guid>
+      <description>Willkommen in der Monsterwerkstatt!
+Man nehme 125 Calliope mini, rund 100 Mädchen, 3m² Basteltisch mit LEDs und Wackelaugen, eine ehemalige Kirche und eine ordentliche Portion „Monster-Fieber“ – und fertig ist das perfekte Rezept für einen monstermäßigen Girls’Day. Am Mädchen-Zukunftstag 2019 haben wir von IT4Kids einen Tag lang mit den Schülerinnen der fünften bis neunten Klasse programmiert und geschraubt, getüftelt und gestaltet, entworfen und konzipiert.
+Nach einer Einführung in die Welt der Programmierung von Minicomputern, konnten sich die Schülerinnen in verschiedenen Workshops ausprobieren.</description>
+    </item>
+    
+    <item>
+      <title>IT4Kids im Regelunterricht</title>
+      <link>https://it-for-kids.org/blog/ggsbranderfeld/</link>
+      <pubDate>Sat, 12 Jan 2019 16:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/blog/ggsbranderfeld/</guid>
+      <description>Mathebücher weg, holt die Laptops raus! - Ein Einblick in den Kursalltag.
+Du wolltest immer schon mal wissen, wie der Alltag eines Kursbetreuers bei IT4Kids aussieht? Dann bist du hier genau richtig. Ich möchte dich mit in unsere Abschlussstunde an der GGS Brander Feld in Aachen nehmen. So wie die letzten neun Dienstage, treffen Joel, David und ich uns heute Vormittag in der GGS Brander Feld. Die beiden sind schon dabei, die Laptops für die Stunde aufzubauen.</description>
+    </item>
+    
+    <item>
+      <title>Status für Partner 2018 Q3 &amp; Q4</title>
+      <link>https://it-for-kids.org/status/2018/q3/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/status/2018/q3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Medienroute Aachen - Digitale Bildung im Fokus</title>
+      <link>https://it-for-kids.org/blog/medienroute18/</link>
+      <pubDate>Wed, 07 Nov 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/blog/medienroute18/</guid>
+      <description>Am 07.11.2018 fand im Raum Aachen und Heinsberg die Medienroute statt. Dabei hatten Schulen und außerschulische Träger die Möglichkeit ihre Ideen und Produkte für Digitalbildung interessierten Lehrern vorzustellen. Wir waren natürlich mit einem Workshop im DigitalHub mit dabei, und haben „Programmieren für Kinder – für Lehrer“ mit Scratch angeboten.
+Zuerst haben wir die Probleme an den jeweiligen Schulen besprochen, welche von der Ausstattung über fehlendes Personal bis hin zu fehlenden Kenntnissen im Kollegium reichten.</description>
+    </item>
+    
+    <item>
+      <title>Beratungstag mit Arkadia Management Consultants</title>
+      <link>https://it-for-kids.org/blog/arkadia/</link>
+      <pubDate>Mon, 29 Oct 2018 11:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/blog/arkadia/</guid>
+      <description>Als soziales Projekt im Bildungssektor kämpfen wir regelmäßig gegen das selbe Problem:
+Wie können wir die Kosten für unsere Kunden senken und gleichzeitig unser Projekt entwickeln? Unternehmensentwicklung ist häufig mit hoher Investition verbunden, aber digitale Bildung sollte jedem ermöglicht werden und unsere Grundschulen haben nur wenig finanzielle Möglichkeiten. Initiativen wie IT4Kids sind deswegen auf die Hilfe anderer angewiesen, die bereit sind ihre Erfahrungen und ihr Wissen für den guten Zweck zu teilen.</description>
+    </item>
+    
+    <item>
+      <title>Meet and Code 2018 - Jetzt teilnehmen!</title>
+      <link>https://it-for-kids.org/blog/meetandcode18/</link>
+      <pubDate>Wed, 03 Oct 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/blog/meetandcode18/</guid>
+      <description>In unserem Scratch-Kurs am 13.10.2018 bieten wir Kindern im Alter von sechs bis zwölf Jahren die Gelegenheit, auf spielerische Weise das Thema Programmierung zu entdecken. Was ist überhaupt ein Computerprogramm? Wie sind die grundlegenden Funktionsweisen? Wie ist es aufgebaut? Bei uns lernen die Kinder, dass Programmieren keine Zauberei ist und jedes Kind nur ein paar Klicks von seinem eigenen Programm entfernt ist.
+Dabei setzten wir auf eine Mischung aus Stift und Papier und arbeiten am PC.</description>
+    </item>
+    
+    <item>
+      <title>Tutorenschulung für das neue Schuljahr</title>
+      <link>https://it-for-kids.org/blog/tutorenschulung18/</link>
+      <pubDate>Mon, 10 Sep 2018 14:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/blog/tutorenschulung18/</guid>
+      <description>Heute war der Auftakt unserer Schulungsreihe für das kommende Schulhalbjahr. Die ersten sechs neuen und alten Tutoren haben Material und Inspirationen für den Kursalltag an die Hand bekommen. Weitere Schulungstermine für die Kurse, die nach den Herbstferien starten, folgen in Kürze.
+Kannst du dich noch daran erinnern, wie du in der Grundschule drauf warst? Ist es bei dir auch schon ein Weilchen her? Wir haben mit unserer kindgerechten Kennlern-Runde auf dem Hof die Zeit ein gutes Jahrzehnt zurück gedreht.</description>
+    </item>
+    
+    <item>
+      <title>ScratchDay im Infosphere mit IT4Kids</title>
+      <link>https://it-for-kids.org/blog/scratchday/</link>
+      <pubDate>Tue, 28 Aug 2018 00:00:00 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/blog/scratchday/</guid>
+      <description>Infosphere - 21. Juli 2018
+„Können wir das auch so machen, dass die Katze auch woanders hinspringt?“, fragt mich das Mädchen, neben mir. „Oder nein, ich weiß etwas Besseres! Die Katze soll so hoch springen, sich drehen und dann so auf dem Kopf landen.“ Das Mädchen steht auf, um sich besser ausdrücken zu können, ich habe Sorge um die Stühle, die neben ihr stehen. „Und dann kommt der Helfer-Hund und rettet die Katze, hilft ihr wieder auf und sie kann weiter springen…“</description>
+    </item>
+    
+    <item>
+      <title>Feedback</title>
+      <link>https://it-for-kids.org/feedback/</link>
+      <pubDate>Sat, 30 Jun 2018 04:09:46 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/feedback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jetzt mitmachen!</title>
+      <link>https://it-for-kids.org/mitmachen/</link>
+      <pubDate>Sat, 30 Jun 2018 04:09:46 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/mitmachen/</guid>
+      <description> Mit einer Kursleiterstelle hilfst du Grundschulen in eine digitale Zukunft. Du gibst an einer Schule einen IT-Kurs und kannst so vielen Kindern IT und Programmierung näher bringen. Wir bereiten dich mit unserer Kursleiterschulung optimal auf diesen Kurs vor und unterstützen dich mit Projekten und einem Lehrkonzept. Neue Kurse starten immer zu den Schulhalbjahren, weswegen wir manchmal nicht direkt auf deine Bewerbung reagieren können.   Wird geladen...   </description>
+    </item>
+    
+    <item>
+      <title>Lehrmaterial Download</title>
+      <link>https://it-for-kids.org/lehrmaterial-download/</link>
+      <pubDate>Sat, 30 Jun 2018 04:09:46 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/lehrmaterial-download/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IT4Kids meets Kimiko</title>
+      <link>https://it-for-kids.org/blog/kimiko/</link>
+      <pubDate>Mon, 25 Jun 2018 20:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/blog/kimiko/</guid>
+      <description>Am 23. und 24. Juni 2018 waren wir auf dem Kimiko Festival in Aachen vertreten.
+An beiden Tagen waren wir mit je 3 IT4Kids Mitgliedern vor Ort. Interessierte Besucher konnten uns am Eingang des Knowledge-Zelts finden. Dort hatten wir einen kleinen Stand aufgebaut und haben unsere neue Software vorgestellt. Außerdem hatten wir mehrere Calliopes mitgebracht, mit denen die Besucher Pong über Funk spielen konnten.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://it-for-kids.org/impressum/</link>
+      <pubDate>Fri, 22 Jun 2018 19:52:26 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/impressum/</guid>
+      <description>Enactus Aachen e.V. c/o WIN Lehrstuhl Kackertstraße 7 52072 Aachen Sitz des Vereins ist Aachen Registergericht Amtsgericht Aachen VR 5449 Bei weiteren Fragen oder Problemen steht Ihnen gerne unserer vertretungsberechtigter Vorstand als Kontakt zur Verfügung:
+Externe Teamleitung: Philipp Steiz Interne Teamleitung: Madlen Merklinger
+Oder wenden Sie sich an unseren Führungskreis:
+info@aachen.enactus.de
+Dieses Impressum gilt auch für folgende Social-Media-Auftritte des Enactus Teams der RWTH Aachen:
+ Facebook: https://www.facebook.com/itforkids.org</description>
+    </item>
+    
+    <item>
+      <title>Affenzirkus</title>
+      <link>https://it-for-kids.org/projekte/affenzirkus/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/affenzirkus/</guid>
+      <description>Ein komplexeres Spiel für einen oder zwei Spieler, bei dem die Fledermaus möglichst oft mit Bananen getroffen werden muss.</description>
+    </item>
+    
+    <item>
+      <title>Alica Kukalla</title>
+      <link>https://it-for-kids.org/team/alica-kukalla/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/alica-kukalla/</guid>
+      <description>Kursorganisation</description>
+    </item>
+    
+    <item>
+      <title>Aquarium</title>
+      <link>https://it-for-kids.org/projekte/aquarium/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/aquarium/</guid>
+      <description>Die Fische bewegen sich von Rand zu Rand. Der Seestern kann mit den Pfeiltasten bewegt werden und fällt bei einer Berührung mit einem Fisch zu Boden.</description>
+    </item>
+    
+    <item>
+      <title>Autorennen</title>
+      <link>https://it-for-kids.org/projekte/autorennen/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/autorennen/</guid>
+      <description>Dein Fahrzeug fährt auf einer Rennstrecke um die Wette. Dabei kannst du dein Auto steuern und Bestzeiten aufstellen.</description>
+    </item>
+    
+    <item>
+      <title>Bananen hergezaubert</title>
+      <link>https://it-for-kids.org/projekte/bananen-hergezaubert/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/bananen-hergezaubert/</guid>
+      <description>Der Zauberer zaubert bei Anklicken Bananen herbei. Dieses Projekt bietet eine Möglichkeit Zufall und Botschaften (in diesem Fall als &amp;quot;Zauber&amp;quot;) anschaulich zu machen.</description>
+    </item>
+    
+    <item>
+      <title>Bau deine Stadt</title>
+      <link>https://it-for-kids.org/projekte/bauedeinestadt/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/bauedeinestadt/</guid>
+      <description>Baue mit Hilfe des Baumeisters und des Gärtners eine Stadt auf. Die Kinder können zusätzlich auch ihre eigenen Häuser und Bäume malen und ihre Stadt damit verschönern.</description>
+    </item>
+    
+    <item>
+      <title>Buchstaben</title>
+      <link>https://it-for-kids.org/projekte/buchstaben/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/buchstaben/</guid>
+      <description>Programmiere jeden Buchstaben eines Worts (z.B. &amp;quot;Scratch&amp;quot;) so, dass dieser aus einer gewählten Ecke zu seiner richtigen Position im Wort gleitet.</description>
+    </item>
+    
+    <item>
+      <title>Codedetektiv 1</title>
+      <link>https://it-for-kids.org/projekte/codedetektik1/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/codedetektik1/</guid>
+      <description>Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas über die Fehlersuche.</description>
+    </item>
+    
+    <item>
+      <title>Codedetektiv 2</title>
+      <link>https://it-for-kids.org/projekte/codedetektiv2/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/codedetektiv2/</guid>
+      <description>Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas über die Fehlersuche.</description>
+    </item>
+    
+    <item>
+      <title>Codedetektiv 3</title>
+      <link>https://it-for-kids.org/projekte/codedetektiv3/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/codedetektiv3/</guid>
+      <description>Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas über die Fehlersuche.</description>
+    </item>
+    
+    <item>
+      <title>Drache rettet Ritter</title>
+      <link>https://it-for-kids.org/projekte/drache-rettet-ritter/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/drache-rettet-ritter/</guid>
+      <description>Hilf dem Drachen Naloth, seinen Freund Ritter Karl zu befreien, indem du den Variablen die richtigen Werte zuweist.</description>
+    </item>
+    
+    <item>
+      <title>Fang mich!</title>
+      <link>https://it-for-kids.org/projekte/fang-mich/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/fang-mich/</guid>
+      <description>Die Katze und der Käfer jagen einander. Der Käfer ist computer-, die Katze spielergesteuert. Die Schüler erlernen den Umgang mit einer Stoppuhr, Tastatur-eingaben und Nachrichten.</description>
+    </item>
+    
+    <item>
+      <title>Farben</title>
+      <link>https://it-for-kids.org/projekte/farben/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/farben/</guid>
+      <description>Programmiere die Maus so, dass sie eine geometrische Figur abhängig von ihrer Hintergrundfarbe zeichnet, wenn sie angeklickt wird.</description>
+    </item>
+    
+    <item>
+      <title>Finde das Tier!</title>
+      <link>https://it-for-kids.org/projekte/finde-das-tier/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/finde-das-tier/</guid>
+      <description>Nachdem die Katze einen Namen genannt hat, muss der Spieler innerhalb von einer Sekunde auf das richtige Tier klicken. Mit fünf Punkten ist das Spiel gewonnen, bei -5 verloren.</description>
+    </item>
+    
+    <item>
+      <title>Helikopter</title>
+      <link>https://it-for-kids.org/projekte/helikopter/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/helikopter/</guid>
+      <description>Der Spieler steuert einen Helikopter mit den Pfeil-tasten durch einen Regen von Hindernissen, welchen er ausweichen soll. Der Helikopter kann in alle Rich-tungen gesteuert werden.</description>
+    </item>
+    
+    <item>
+      <title>Jana Lorenz</title>
+      <link>https://it-for-kids.org/team/jana-lorenz/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/jana-lorenz/</guid>
+      <description>Lehrkonzept-Entwicklung</description>
+    </item>
+    
+    <item>
+      <title>Jannick Fiedler</title>
+      <link>https://it-for-kids.org/team/jannick-fiedler/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/team/jannick-fiedler/</guid>
+      <description>Kursorganisation</description>
+    </item>
+    
+    <item>
+      <title>Katze fängt Maus</title>
+      <link>https://it-for-kids.org/projekte/katze-faengt-maus/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/katze-faengt-maus/</guid>
+      <description>Die Maus soll nach dem Start vor der vom Spieler gesteuerten Katze weglaufen. Die Schüler lernen den Umgang mit Kostümen und der Steuerung der Figuren.</description>
+    </item>
+    
+    <item>
+      <title>Klänge</title>
+      <link>https://it-for-kids.org/projekte/klaenge/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/klaenge/</guid>
+      <description>In diesem Projekt lernen die Schüler das abspielen von Klängen. Die Klänge werden ereignisbasiert abgespielt.</description>
+    </item>
+    
+    <item>
+      <title>Labyrinth</title>
+      <link>https://it-for-kids.org/projekte/labyrinth/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/labyrinth/</guid>
+      <description>Programmiere die Maus so, dass sie durch das Labyrinth den Weg zuerst zum Schlüssel und dann zum Tor findet.</description>
+    </item>
+    
+    <item>
+      <title>Maus zum Käse</title>
+      <link>https://it-for-kids.org/projekte/maus-zum-kaese/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/maus-zum-kaese/</guid>
+      <description>Programmiere die Maus so, dass sie über die Brücke zum Käse läuft und dabei nicht ins Wasser fällt.</description>
+    </item>
+    
+    <item>
+      <title>Pacman</title>
+      <link>https://it-for-kids.org/projekte/pacman/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/pacman/</guid>
+      <description>Dieses Projekt ist deutlich fortgeschrittener. Es geht um die Programmierung des bekannten Spiels &amp;quot;Pacman&amp;quot;. Die Schüler/-innen lernen alle Aspekte der Spiele-programmierung kennen.</description>
+    </item>
+    
+    <item>
+      <title>Pong</title>
+      <link>https://it-for-kids.org/projekte/pong/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/pong/</guid>
+      <description>Dieses Projekt gehört zu den eher fortgeschrittenen Projekten. Es geht um den kompletten Ablauf der Spieleentwicklung, bei der ein Klassiker der Spiel- geschichte nachgebaut wird.</description>
+    </item>
+    
+    <item>
+      <title>Quizmaster</title>
+      <link>https://it-for-kids.org/projekte/quizmaster/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/quizmaster/</guid>
+      <description>In diesem Projekt bauen wir ein Quiz und benutzen dabei Mausinteraktion und Logik. Es können z.B. neue Fragen hinzugefügt oder geändert werden. Das Quiz reagiert auf richtige und falsche Antworten.</description>
+    </item>
+    
+    <item>
+      <title>Tanzstunde</title>
+      <link>https://it-for-kids.org/projekte/tanzstunde/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/tanzstunde/</guid>
+      <description>Das Senden und Empfangen von Nachrichten und die anschließende Reaktion darauf wird anhand einer Tanzschule erlernt. Dabei kommen verschiedene Kostüme zum Einsatz.</description>
+    </item>
+    
+    <item>
+      <title>Trampolin</title>
+      <link>https://it-for-kids.org/projekte/trampolin/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/trampolin/</guid>
+      <description>In diesem Programm springt Scratch (die Katze) auf einem Trampolin und kann in der Luft Drehungen und Salti ausführen. Durch Gedrückthalten der Leertaste springt Scratch höher.</description>
+    </item>
+    
+    <item>
+      <title>Was soll ich anziehen?</title>
+      <link>https://it-for-kids.org/projekte/was-soll-ich-anziehen/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/was-soll-ich-anziehen/</guid>
+      <description>Die Figur kann verschiedene Kleidungsstücke anziehen. Dazu muss man auf die Kleidungsstücke klicken.</description>
+    </item>
+    
+    <item>
+      <title>Wettrennen</title>
+      <link>https://it-for-kids.org/projekte/wettrennen/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/wettrennen/</guid>
+      <description>Zwei Figuren laufen gesteuert durch schnelle Tastendrücke um die Wette. Sehr gut zum Einstieg in die Spieleentwicklung.</description>
+    </item>
+    
+    <item>
+      <title>Zeichnen</title>
+      <link>https://it-for-kids.org/projekte/zeichnen/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/zeichnen/</guid>
+      <description>Erlernen der Programmierung von Bewegungsmustern und des Zeichnens. Ist als eines der ersten Aufgaben mit Scratch gut geeignet.</description>
+    </item>
+    
+    <item>
+      <title>Zitterlabyrinth</title>
+      <link>https://it-for-kids.org/projekte/zitterlabyrinth/</link>
+      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/projekte/zitterlabyrinth/</guid>
+      <description>Die Figur soll mit der Maus durch das Labyrinth bewegt werden. Die Wände dürfen nicht berührt werden. Die Zeit zum durchqueren wird gemessen.</description>
+    </item>
+    
+    <item>
+      <title>Was für Software entwickelt IT4Kids?</title>
+      <link>https://it-for-kids.org/software/</link>
+      <pubDate>Fri, 22 Jun 2018 19:08:40 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/software/</guid>
+      <description>Weil bestehende Alternativen nicht auf das Lernen im Klassenverband ausgelegt sind, haben wir uns entschlossen, eine eigene Lernsoftware zu entwickeln und anzubieten!    Jetzt Demo laden!   Integration von Lerninhalten   Wir planen, die Lerninhalte der Kursstunden so eng wie möglich mit der Software zu verzahnen. Dies ermöglicht das direkte Einbetten der Aufgabenstellung in der Programmieroberfläche und eine Integration von Hilfestellungen, die zum jeweiligen Thema passgenau abgerufen werden können.</description>
+    </item>
+    
+    <item>
+      <title>Wie bringen wir Kindern Programmieren bei?</title>
+      <link>https://it-for-kids.org/lehrmaterial/</link>
+      <pubDate>Fri, 22 Jun 2018 19:07:46 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/lehrmaterial/</guid>
+      <description>Um die Kinder schrittweise, verständlich und auf spielerische Weise an das Thema Programmieren heranzuführen, benötigt es ein umfassendes Konzept. Wir haben ein Lehrkonzept mit umfangreichen Lernmaterialien entwickelt, mit dem wir zwei zentrale Ziele verfolgen: Zum einen können die Kinder mit der Benutzeroberfläche der Lernsoftware spielerisch interagieren und zum anderen werden wichtige Grundkonzepte des Programmierens behandelt.     Um einen an jedes Kind angepassten Lernfortschritt zu ermöglichen, sind unsere Lektionen in „Level“ unterteilt.</description>
+    </item>
+    
+    <item>
+      <title>Vision</title>
+      <link>https://it-for-kids.org/vision/</link>
+      <pubDate>Fri, 22 Jun 2018 19:07:37 +0200</pubDate>
+      
+      <guid>https://it-for-kids.org/vision/</guid>
+      <description>IT4KIDS in 80 Sekunden           IT4Kids, das ist eine Gruppe von Studierenden, die im Rahmen von Enactus Aachen ein Projekt gestartet haben mit dem Ziel, Kindern bereits in jungen Jahren den Zugang zur Informatik und dem Programmieren zu ermöglichen.  Informatik wird an deutschen Schulen in der Regel frühestens ab der Mittelstufe (Klasse 7) gelehrt. Früher gibt es wenige Angebote und der „PC-Unterricht“ an Schulen ist oft auf das Bedienen des Rechners und Standardanwendungen (Office, Bildbearbeitung) beschränkt.</description>
+    </item>
+    
+    <item>
+      <title>Status für Partner 2018 Q1 &amp; Q2</title>
+      <link>https://it-for-kids.org/status/2018/q1/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/status/2018/q1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status für Partner 2017 Q3 &amp; Q4</title>
+      <link>https://it-for-kids.org/status/2017/q3/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/status/2017/q3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Status für Partner 2017 Q1 &amp; Q2</title>
+      <link>https://it-for-kids.org/status/2017/q1/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/status/2017/q1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://it-for-kids.org/datenschutz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/datenschutz/</guid>
+      <description>Datenschutz Die folgende Datenschutzerklärung erläutert dabei insbesondere, welche personenbezogenen Daten wir in welcher Weise verarbeiten, wie lange Ihre Daten gespeichert werden und welche Rechte Ihnen zustehen können.
+I. Verantwortlicher: Damit Sie wissen, an wen Sie sich wenden können, wenn es um Ihre Daten geht, teilen wir Ihnen zunächst mit, wer für die Verarbeitung rechtlich die Verantwortung trägt und wer konkreter Ansprechpartner für Ihre Belange ist.
+Rechtlicher Verantwortlicher:
+Enactus Aachen e.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -58,6 +58,10 @@
 </script>
 
 
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+
     
     
 </head>
@@ -341,7 +345,7 @@
                         
                     </a>
                 </div>
-                <div class="col-8 col-md-6">
+                <div class="col-8 col-md-8">
                     <div class="card-body p-2">
                         <h5 class="card-title m-1">Medienroute Aachen - Digitale Bildung im Fokus</h5>
                         <div class="m-1 card-text d-none d-lg-block text-muted">
@@ -379,7 +383,7 @@
                         
                     </a>
                 </div>
-                <div class="col-8 col-md-6">
+                <div class="col-8 col-md-8">
                     <div class="card-body p-2">
                         <h5 class="card-title m-1">Beratungstag mit Arkadia Management Consultants</h5>
                         <div class="m-1 card-text d-none d-lg-block text-muted">
@@ -417,7 +421,7 @@
                         
                     </a>
                 </div>
-                <div class="col-8 col-md-6">
+                <div class="col-8 col-md-8">
                     <div class="card-body p-2">
                         <h5 class="card-title m-1">Meet and Code 2018 - Jetzt teilnehmen!</h5>
                         <div class="m-1 card-text d-none d-lg-block text-muted">
@@ -455,7 +459,7 @@
                         
                     </a>
                 </div>
-                <div class="col-8 col-md-6">
+                <div class="col-8 col-md-8">
                     <div class="card-body p-2">
                         <h5 class="card-title m-1">ScratchDay im Infosphere mit IT4Kids</h5>
                         <div class="m-1 card-text d-none d-lg-block text-muted">
@@ -493,7 +497,7 @@
                         
                     </a>
                 </div>
-                <div class="col-8 col-md-6">
+                <div class="col-8 col-md-8">
                     <div class="card-body p-2">
                         <h5 class="card-title m-1">IT4Kids meets Kimiko</h5>
                         <div class="m-1 card-text d-none d-lg-block text-muted">
@@ -529,20 +533,163 @@
     <div class="row">
         <div class="col text-center">
             <h2>Unsere Partner</h2>
-            <div class="row my-auto">
-                <div class="col-4 p-4 my-auto">
-                    <img src="/img/partner/lancom.png" class="img-fluid" alt="LANCOM Systems">
-                </div>
-                <div class="col-4 p-0 my-auto">
-                    <img src="/img/partner/INFORM_RGB_Hintergrund-transparent.svg" class="img-fluid" alt="INFORM">
-                </div>
-                <div class="col-4 p-4 my-auto">
-                    <img src="/img/partner/arkadia.jpg" class="img-fluid" alt="Arkadia Management Consultants">
-                </div>
-            </div>
+            <div class="customer-logos slider">
+    <div class="slide"><img src="/img/partner/lancom.png" class="img-fluid"
+                            alt="LANCOM Systems">
+    </div>
+    <div class="slide"><img src="/img/partner/INFORM_RGB_Hintergrund-transparent.png"
+                            class="img-fluid"
+                            alt="INFORM"></div>
+    <div class="slide"><img src="/img/partner/arkadia.jpg" class="img-fluid"
+                            alt="Arkadia Management Consultants"></div>
+    <div class="slide"><img src="/img/partner/zdi_logo_427px.jpg" class="img-fluid"
+                            alt="ZDI Netzwerk Aachen"></div>
+</div>
+<style>
+     
+
+    .slick-slide {
+        margin: 0px 20px;
+    }
+
+    .slick-slide img {
+        width: 100%;
+    }
+
+    .slick-slider
+    {
+        position: relative;
+        display: block;
+        box-sizing: border-box;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+        -webkit-touch-callout: none;
+        -khtml-user-select: none;
+        -ms-touch-action: pan-y;
+        touch-action: pan-y;
+        -webkit-tap-highlight-color: transparent;
+    }
+
+    .slick-list
+    {
+        position: relative;
+        display: block;
+        overflow: hidden;
+        margin: 0;
+        padding: 0;
+    }
+    .slick-list:focus
+    {
+        outline: none;
+    }
+    .slick-list.dragging
+    {
+        cursor: pointer;
+        cursor: hand;
+    }
+
+    .slick-slider .slick-track,
+    .slick-slider .slick-list
+    {
+        -webkit-transform: translate3d(0, 0, 0);
+        -moz-transform: translate3d(0, 0, 0);
+        -ms-transform: translate3d(0, 0, 0);
+        -o-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+
+    .slick-track
+    {
+        position: relative;
+        top: 0;
+        left: 0;
+        display: block;
+    }
+    .slick-track:before,
+    .slick-track:after
+    {
+        display: table;
+        content: '';
+    }
+    .slick-track:after
+    {
+        clear: both;
+    }
+    .slick-loading .slick-track
+    {
+        visibility: hidden;
+    }
+
+    .slick-slide
+    {
+        display: none;
+        float: left;
+        height: 100%;
+        min-height: 1px;
+    }
+    [dir='rtl'] .slick-slide
+    {
+        float: right;
+    }
+    .slick-slide img
+    {
+        display: block;
+    }
+    .slick-slide.slick-loading img
+    {
+        display: none;
+    }
+    .slick-slide.dragging img
+    {
+        pointer-events: none;
+    }
+    .slick-initialized .slick-slide
+    {
+        display: block;
+    }
+    .slick-loading .slick-slide
+    {
+        visibility: hidden;
+    }
+    .slick-vertical .slick-slide
+    {
+        display: block;
+        height: auto;
+        border: 1px solid transparent;
+    }
+    .slick-arrow.slick-hidden {
+        display: none;
+    }
+</style>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+<script>
+    $(document).ready(function(){
+        $('.customer-logos').slick({
+            slidesToShow: 4,
+            slidesToScroll: 1,
+            autoplay: true,
+            autoplaySpeed: 1000,
+            arrows: false,
+            dots: false,
+            pauseOnHover: false,
+            responsive: [{
+                breakpoint: 768,
+                settings: {
+                    slidesToShow: 3
+                }
+            }, {
+                breakpoint: 520,
+                settings: {
+                    slidesToShow: 2
+                }
+            }]
+        });
+    });
+</script>
         </div>
     </div>
-
 </div>
 <script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.3/dist/Chart.min.js"></script>
 <script>
@@ -649,7 +796,6 @@
         }
     });
 </script>
-
 <section id="contact">
    <div class="container mt-5">
       <div class="center" style="max-width:800px;">
@@ -743,10 +889,6 @@
         </div>
     </div>
 </footer>
-
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
 </body>
 </html>

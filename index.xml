@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&lt;span class=&#34;copyright&#34;&gt;Copyright &amp;copy; &lt;script&gt;document.write(new Date().getFullYear())&lt;/script&gt; IT4Kids&lt;/span&gt;</copyright>
-    <lastBuildDate>Wed, 11 Dec 2019 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://it-for-kids.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -166,6 +166,25 @@
     </item>
     
     <item>
+      <title>IT4Kids: Neues für Partner</title>
+      <link>https://it-for-kids.org/status/2019/q3/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/status/2019/q3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rückzug aus Mönchengladbach</title>
+      <link>https://it-for-kids.org/blog/191224/</link>
+      <pubDate>Tue, 31 Dec 2019 11:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/blog/191224/</guid>
+      <description>Ein Teil von Stärke ist es, sich geschlagen zu geben.
+Nach einem Jahr Pilotphase haben wir uns entschieden den Expansionsstandort Mönchengladbach zu schließen. Damals hatte sich Mönchengladbach über unser Netzwerk als fruchtbarer Standort herauskristalisiert. Nach wenigen Gesprächen waren Geldgeber und Kunden gefunden. Es hatten sich für das erste Halbjahr direkt 6 Schulen gemeldet, die gerne IT4Kids an ihrer Schule haben wollten. Da unsere Kurse von Studenten geführt werden, sind wir sofort an die Hochschulen getreten und haben die ersten Kurse gestartet.</description>
+    </item>
+    
+    <item>
       <title>Variablen und ihr Zuhause</title>
       <link>https://it-for-kids.org/blog/191211_variables/</link>
       <pubDate>Wed, 11 Dec 2019 11:00:00 +0000</pubDate>
@@ -194,7 +213,7 @@ Doch fangen wir vorne an: Obwohl wir mittlerweile auch in anderen Städten IT-Bi
     </item>
     
     <item>
-      <title>IT4Kids: Neues für Partner</title>
+      <title>Status für Partner: 2019 Q1 &amp; Q2</title>
       <link>https://it-for-kids.org/status/2019/q1/</link>
       <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
       

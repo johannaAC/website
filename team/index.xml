@@ -7,33 +7,122 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&lt;span class=&#34;copyright&#34;&gt;Copyright &amp;copy; &lt;script&gt;document.write(new Date().getFullYear())&lt;/script&gt; IT4Kids&lt;/span&gt;</copyright>
-    <lastBuildDate>Fri, 22 Jun 2018 19:09:16 +0200</lastBuildDate>
     
 	<atom:link href="https://it-for-kids.org/team/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Fynn Mazurkiewicz</title>
+      <title>Amelie Loevenich</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
-      
-      <guid></guid>
-      <description>Projektleitung</description>
-    </item>
-    
-    <item>
-      <title>Christina Späth</title>
-      <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
       <description>Lehrkonzept-Entwicklung</description>
     </item>
     
     <item>
-      <title>Sebastian Schilling</title>
+      <title>Andrea Thiele</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Lehrkonzept-Entwicklung</description>
+    </item>
+    
+    <item>
+      <title>Christina Späth</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Lehrkonzept-Entwicklung</description>
+    </item>
+    
+    <item>
+      <title>Daniel Schneider</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Lehrkonzept-Entwicklung</description>
+    </item>
+    
+    <item>
+      <title>Jana Lorenz</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Lehrkonzept-Entwicklung</description>
+    </item>
+    
+    <item>
+      <title>Martin Clever</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Lehrkonzept-Entwicklung</description>
+    </item>
+    
+    <item>
+      <title>Moritz Hesper</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Lehrkonzept-Entwicklung</description>
+    </item>
+    
+    <item>
+      <title>Alica Kukalla</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Kursorganisation</description>
+    </item>
+    
+    <item>
+      <title>Carolin Proff</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Kursorganisation</description>
+    </item>
+    
+    <item>
+      <title>David Forster</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Kursorganisation</description>
+    </item>
+    
+    <item>
+      <title>Enzo Cording</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Kursorganisation</description>
+    </item>
+    
+    <item>
+      <title>Hannah Baumanns</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Kursorganisation</description>
+    </item>
+    
+    <item>
+      <title>Jannick Fiedler</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
       <description>Kursorganisation</description>
@@ -42,7 +131,7 @@
     <item>
       <title>Sven Mattus</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
       <description>Kursorganisation</description>
@@ -51,145 +140,109 @@
     <item>
       <title>Carl Retzlaff</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
       <description>Software-Entwicklung</description>
     </item>
     
     <item>
-      <title>Hannah Baumanns</title>
+      <title>Daniel Oltmanns</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
-      <description>Kursorganisation</description>
+      <description>Software-Entwicklung</description>
     </item>
     
     <item>
-      <title>Jan Agner</title>
+      <title>Fynn Mazurkiewicz</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
-      <description>Kursorganisation</description>
-    </item>
-    
-    <item>
-      <title>Andrea Thiele</title>
-      <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
-      
-      <guid></guid>
-      <description>Lehrkonzept-Entwicklung</description>
+      <description>Projektleitung</description>
     </item>
     
     <item>
       <title>Hendrik Eckelt</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
       <description>Sponsoren-Management</description>
     </item>
     
     <item>
-      <title>Judy Borowski</title>
+      <title>Jan Agner</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
-      <description>Kursorganisation Tübingen</description>
-    </item>
-    
-    <item>
-      <title>Katharina Wiethoff</title>
-      <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
-      
-      <guid></guid>
-      <description>Organisation &amp;amp; Marketing</description>
-    </item>
-    
-    <item>
-      <title>Max Günthner</title>
-      <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
-      
-      <guid></guid>
-      <description>Kursorganisation Tübingen</description>
-    </item>
-    
-    <item>
-      <title>Daniel Schneider</title>
-      <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
-      
-      <guid></guid>
-      <description>Lehrkonzept-Entwicklung</description>
-    </item>
-    
-    <item>
-      <title>Lucas Mosig</title>
-      <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
-      
-      <guid></guid>
-      <description>Ehemalige Projektleitung</description>
-    </item>
-    
-    <item>
-      <title>Yian Liu</title>
-      <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
-      
-      <guid></guid>
-      <description>Operations Leader</description>
+      <description>Kursorganisation</description>
     </item>
     
     <item>
       <title>Johanna Tolzmann</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
       <description>Leitung - Lehrkonzept</description>
     </item>
     
     <item>
+      <title>Katharina Wiethoff</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Organisation &amp;amp; Marketing</description>
+    </item>
+    
+    <item>
+      <title>Lucas Mosig</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>Ehemalige Projektleitung</description>
+    </item>
+    
+    <item>
       <title>Lukas Dachtler</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
       <description>Leitung - Software</description>
     </item>
     
     <item>
-      <title>Alica Kukalla</title>
+      <title>Miguel Franken</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
-      <description>Kursorganisation</description>
+      <description>Software-Entwicklung</description>
     </item>
     
     <item>
-      <title>Jana Lorenz</title>
+      <title>Sebastian Schilling</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
-      <description>Lehrkonzept-Entwicklung</description>
+      <description>Leitung - Kursorganisation</description>
     </item>
     
     <item>
-      <title>Jannick Fiedler</title>
+      <title>Yian Liu</title>
       <link></link>
-      <pubDate>Fri, 22 Jun 2018 19:09:16 +0200</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid></guid>
-      <description>Kursorganisation</description>
+      <description>Operations Leader</description>
     </item>
     
   </channel>

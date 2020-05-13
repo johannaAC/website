@@ -232,11 +232,6 @@
   </url>
   
   <url>
-    <loc>https://it-for-kids.org/team/</loc>
-    <lastmod>2018-06-22T19:09:16+02:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://it-for-kids.org/projekte/wettrennen/</loc>
     <lastmod>2018-06-22T19:09:16+02:00</lastmod>
   </url>
@@ -292,6 +287,10 @@
   
   <url>
     <loc>https://it-for-kids.org/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://it-for-kids.org/team/</loc>
   </url>
   
 </urlset>

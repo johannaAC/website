@@ -4,7 +4,7 @@ date: 2018-06-22T19:09:16+02:00
 draft: false
 links:
   - name: Cubi Lösung
-    url: https://editor.it-for-kids.org/?level=level/Loesungen/FangMich.cubi
+    url: https://editor.it-for-kids.org/?level=https://raw.githubusercontent.com/IT4Kids/levels/master/Templates/Fang_Mich.cubi
   - name: Scratch Vorlage
     url: https://scratch.mit.edu/projects/113881635/
   - name: Scratch Lösung

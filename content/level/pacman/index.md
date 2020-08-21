@@ -4,7 +4,7 @@ date: 2018-06-22T19:09:16+02:00
 draft: false
 links:
   - name: Cubi Lösung
-    url: https://editor.it-for-kids.org/?level=level/Loesungen/Pacman.cubi
+    url: https://editor.it-for-kids.org/?level=https://raw.githubusercontent.com/IT4Kids/levels/master/Solutions/Pacman.cubi
   - name: Scratch Vorlage
     url: https://scratch.mit.edu/projects/314982277
   - name: Scratch Lösung

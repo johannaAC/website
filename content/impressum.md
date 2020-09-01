@@ -12,6 +12,10 @@ Sitz des Vereins ist Aachen \
 Registergericht Amtsgericht Aachen \
 VR 6008
 
+Vertreten durch den Vorstand:
+Fynn Mazurkiewicz, Erster Vorsitzender
+Johanna Tolzmann, Zweite Vorsitzende
+
 Dieses Impressum gilt auch für folgende Social-Media-Auftritte:
 
 - Instagram: https://www.instagram.com/it4kids.ac

@@ -13,8 +13,8 @@ Registergericht Amtsgericht Aachen \
 VR 6008
 
 Vertreten durch den Vorstand:
-Fynn Mazurkiewicz, Erster Vorsitzender
-Johanna Tolzmann, Zweite Vorsitzende
+- Fynn Mazurkiewicz, Erster Vorsitzender
+- Johanna Tolzmann, Zweite Vorsitzende
 
 Dieses Impressum gilt auch für folgende Social-Media-Auftritte:
 

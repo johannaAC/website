@@ -5,7 +5,7 @@ draft: false
 links:
    - name: Vorlage
      url: https://scratch.mit.edu/projects/305760490
-difficulty: 3
+difficulty: 1
 tags:
   - tag: scratch
 ---

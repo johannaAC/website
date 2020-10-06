@@ -11,7 +11,7 @@ links:
     url: https://scratch.mit.edu/projects/94828871/
   - name: Scratch Lösung
     url: https://scratch.mit.edu/projects/284486576
-difficulty: 4
+difficulty: 3
 tags:
   - tag: cubi
   - tag: scratch

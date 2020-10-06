@@ -19,70 +19,50 @@ function applySortAndFilter() {
 
 applySortAndFilter();
 
-function filterApp(app) {
-    selectFilter(app);
-    applySortAndFilter();
-}
-
-function sortName() {
-    if (reoSettings.sort === 'title') {
-        sortNameAsc = !sortNameAsc;
-    }
-    selectSort('title');
+function sortName(asc) {
     reoSettings.sort = 'title';
-    reoSettings.reverse = !sortNameAsc;
+    reoSettings.reverse = !asc;
     applySortAndFilter();
 }
 
-function sortSkill() {
-    if (reoSettings.sort === 'difficulty') {
-        sortSkillAsc = !sortSkillAsc;
-    }
-    selectSort('difficulty');
+function sortSkill(asc) {
     reoSettings.sort = 'difficulty';
-    reoSettings.reverse = !sortSkillAsc;
+    reoSettings.reverse = !asc;
     applySortAndFilter();
 }
 
-function selectSort(sort) {
-    reoSettings.sort = sort;
-    if (reoSettings.sort === 'title') {
-        $(btnSortName).addClass('selected');
-        $(btnSortSkill).removeClass('selected');
-        if (sortNameAsc) {
-            changeIcon(btnSortName,'level-down-alt');
-        } else {
-            changeIcon(btnSortName,'level-up-alt');
-        }
-    } else {
-        $(btnSortSkill).addClass('selected');
-        $(btnSortName).removeClass('selected');
-        if (sortSkillAsc) {
-            changeIcon(btnSortSkill,'level-down-alt');
-        } else {
-            changeIcon(btnSortSkill,'level-up-alt');
-        }
-    }
+function filterApp(filter) {
+    reoSettings.filter = filter;
+    applySortAndFilter();
 }
 
-function selectFilter(filter) {
-    if (reoSettings.filter === filter) {
-        reoSettings.filter = 'none';
-    } else {
-        reoSettings.filter = filter;
+$('#BSelectSort').on('changed.bs.select', function (e, clickedIndex) {
+    switch (clickedIndex) {
+        case 0:
+            sortSkill(true);
+            break;
+        case 1:
+            sortSkill(false);
+            break;
+        case 2:
+            sortName(true);
+            break;
+        case 3:
+            sortName(false);
+            break;
     }
-    if (reoSettings.filter === 'cubi') {
-        $(btnFilterCubi).addClass('selected');
-        $(btnFilterScratch).removeClass('selected');
-    } else if (reoSettings.filter === 'scratch') {
-        $(btnFilterScratch).addClass('selected');
-        $(btnFilterCubi).removeClass('selected');
-    } else {
-        $(btnFilterCubi).removeClass('selected');
-        $(btnFilterScratch).removeClass('selected');
-    }
-}
+});
 
-function changeIcon(element, icon) {
-    $(element).find('i.fa').removeClass('fa-level-up-alt').removeClass('fa-level-down-alt').addClass('fa-' + icon)
-}
+$('#BSelectFilter').on('changed.bs.select', function (e, clickedIndex) {
+    switch (clickedIndex) {
+        case 0:
+            filterApp('none');
+            break;
+        case 1:
+            filterApp('cubi');
+            break;
+        case 2:
+            filterApp('scratch');
+            break;
+    }
+});

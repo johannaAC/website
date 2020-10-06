@@ -56,12 +56,15 @@ body {
     box-shadow: none;
 }
 /* Level */
-.filter-option {
+.bootstrap-select .filter-option {
     color: #212529;
 }
-.form-control.dropdown-toggle:focus {
+.bootstrap-select .bs-placeholder:focus {
     box-shadow: none;
     outline: none !important;
+}
+.bootstrap-select .dropdown-item {
+    padding: .25rem 0.75rem !important;
 }
 
 .i4k-embed-frame {

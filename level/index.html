@@ -44,6 +44,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/css/bootstrap-select.min.css">
 <link rel="stylesheet" href="/css/app.css">
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-139711350-1"></script>
@@ -59,7 +60,7 @@
 <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
-
+<script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/js/bootstrap-select.min.js"></script>
 
     
     
@@ -172,25 +173,20 @@
     <div class="row">
         <div class="col-6">
             <h5>Sortieren:</h5>
-            <button id="btnSortName" class="btn btn-filter" type="button" onclick="sortName()">
-                Alphabetisch
-                <i class="fa fa-level-down-alt fa-lg"></i>
-            </button>
-            <button id="btnSortSkill" class="btn btn-filter selected" type="button" onclick="sortSkill()">
-                Schwierigkeit
-                <i class="fa fa-level-down-alt fa-lg"></i>
-            </button>
+            <select id="BSelectSort" class="selectpicker" data-style="" data-style-base="form-control">
+                <option data-content="<i class='fa fa-angle-up' style='margin-right:5px'></i> Schwierigkeit" selected></option>
+                <option data-content="<i class='fa fa-angle-down' style='margin-right:5px'></i> Schwierigkeit"></option>
+                <option data-content="<i class='fa fa-angle-up' style='margin-right:5px'></i> Alphabetisch"></option>
+                <option data-content="<i class='fa fa-angle-down' style='margin-right:5px'></i> Alphabetisch"></option>
+            </select>
         </div>
         <div class="col-6">
             <h5>Filtern:</h5>
-            <button id="btnFilterCubi" class="btn btn-filter" type="button" onclick="filterApp('cubi')">
-                Cubi
-                <i class="fa fa-filter fa-lg"></i>
-            </button>
-            <button id="btnFilterScratch" class="btn btn-filter" type="button" onclick="filterApp('scratch')">
-                Scratch
-                <i class="fa fa-filter fa-lg"></i>
-            </button>
+            <select id="BSelectFilter" class="selectpicker" data-style="" data-style-base="form-control">
+                <option data-content="Alle"></option>
+                <option data-content="Cubi"></option>
+                <option data-content="Scratch"></option>
+            </select>
         </div>
     </div>
     <div class="row">
@@ -200,7 +196,6 @@
             </p>
         </div>
     </div>
-
     <div class="row">
         
             
@@ -226,7 +221,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -246,25 +241,25 @@
 
 
 
-
     
 
 
-<div class="col-md-4 col-sm-6 col-12 mb-5 level" data-tags="cubi|scratch|" data-title="Aquarium" data-difficulty="4">
+
+<div class="col-md-4 col-sm-6 col-12 mb-5 level" data-tags="cubi|scratch|" data-title="Aquarium" data-difficulty="3">
     <div class="card h-100">
         
             
             <img class="card-img-top img-fluid" src="/level/aquarium/image_hua7c445e135a2f13e658f1d0ae7121f8e_47447_480x360_fill_box_bottom_2.png" alt="Card Image">
         
         <div class="card-body">
-            <h4 class="card-title">Aquarium <br> <span style="font-size: 1rem; font-style: italic">Experte</span></h4>
+            <h4 class="card-title">Aquarium <br> <span style="font-size: 1rem; font-style: italic">Fortgeschritten</span></h4>
             <p class="card-text"><p>Erstelle ein buntes Aquarium, in dem verschiedene Fische schwimmen. Steuere deinen Seestern durch das Aquarium. Aber Achtung, dass du nicht gefährlichen Meeresbewohnern begegnest!</p>
 </p>
         </div>
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -306,7 +301,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -329,26 +324,26 @@
 
 
 
+
     
 
 
 
-
-<div class="col-md-4 col-sm-6 col-12 mb-5 level" data-tags="cubi|scratch|" data-title="Bananen hergezaubert" data-difficulty="2">
+<div class="col-md-4 col-sm-6 col-12 mb-5 level" data-tags="cubi|scratch|" data-title="Bananen hergezaubert" data-difficulty="3">
     <div class="card h-100">
         
             
             <img class="card-img-top img-fluid" src="/level/bananen-hergezaubert/image_huee007c2700e72fed08490a26212bcf84_46314_480x360_fill_box_bottom_2.png" alt="Card Image">
         
         <div class="card-body">
-            <h4 class="card-title">Bananen hergezaubert <br> <span style="font-size: 1rem; font-style: italic">Anfänger</span></h4>
+            <h4 class="card-title">Bananen hergezaubert <br> <span style="font-size: 1rem; font-style: italic">Fortgeschritten</span></h4>
             <p class="card-text"><p>Klicke auf den Zauberer. Mit jedem Klick klonen sich die Bananen. Der hungrige Affe freut sich darüber!</p>
 </p>
         </div>
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -390,7 +385,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -409,26 +404,26 @@
 
 
 
+
     
 
 
 
-
-<div class="col-md-4 col-sm-6 col-12 mb-5 level" data-tags="cubi|scratch|" data-title="Buchstaben" data-difficulty="2">
+<div class="col-md-4 col-sm-6 col-12 mb-5 level" data-tags="cubi|scratch|" data-title="Buchstaben" data-difficulty="3">
     <div class="card h-100">
         
             
             <img class="card-img-top img-fluid" src="/level/buchstaben/image_hu759a88b99a333258ca36e56c349038a5_56952_480x360_fill_box_bottom_2.png" alt="Card Image">
         
         <div class="card-body">
-            <h4 class="card-title">Buchstaben <br> <span style="font-size: 1rem; font-style: italic">Anfänger</span></h4>
+            <h4 class="card-title">Buchstaben <br> <span style="font-size: 1rem; font-style: italic">Fortgeschritten</span></h4>
             <p class="card-text"><p>Lasse die einzelnen Buchstaben aus allen Richtungen des Bildschirms an ihren richtigen Platz fliegen.</p>
 </p>
         </div>
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -450,27 +445,27 @@
             
 
 
-
-
     
 
 
 
-<div class="col-md-4 col-sm-6 col-12 mb-5 level" data-tags="scratch|" data-title="Codedetektiv 1" data-difficulty="3">
+
+
+<div class="col-md-4 col-sm-6 col-12 mb-5 level" data-tags="scratch|" data-title="Codedetektiv 1" data-difficulty="1">
     <div class="card h-100">
         
             
             <img class="card-img-top img-fluid" src="/level/codedetektik1/image_hueea0a7c6e55997dbaccdad1c6de40a9e_23142_480x360_fill_box_bottom_2.png" alt="Card Image">
         
         <div class="card-body">
-            <h4 class="card-title">Codedetektiv 1 <br> <span style="font-size: 1rem; font-style: italic">Fortgeschritten</span></h4>
+            <h4 class="card-title">Codedetektiv 1 <br> <span style="font-size: 1rem; font-style: italic">Einsteiger</span></h4>
             <p class="card-text"><p>Finde die zwei Fehler aus dem Projekt Labyrinth und lerne dabei etwas über die Fehlersuche.</p>
 </p>
         </div>
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -488,25 +483,25 @@
 
 
 
+
     
 
 
-
-<div class="col-md-4 col-sm-6 col-12 mb-5 level" data-tags="scratch|" data-title="Codedetektiv 2" data-difficulty="3">
+<div class="col-md-4 col-sm-6 col-12 mb-5 level" data-tags="scratch|" data-title="Codedetektiv 2" data-difficulty="4">
     <div class="card h-100">
         
             
             <img class="card-img-top img-fluid" src="/level/codedetektiv2/image_huae0f0d4afdb4ec7036d65e6b633699df_65029_480x360_fill_box_bottom_2.png" alt="Card Image">
         
         <div class="card-body">
-            <h4 class="card-title">Codedetektiv 2 <br> <span style="font-size: 1rem; font-style: italic">Fortgeschritten</span></h4>
+            <h4 class="card-title">Codedetektiv 2 <br> <span style="font-size: 1rem; font-style: italic">Experte</span></h4>
             <p class="card-text"><p>Finde die beiden Fehler aus dem Projekt Autorennen und werde zum Fehlersuch-Experten.</p>
 </p>
         </div>
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -524,25 +519,25 @@
 
 
 
-
     
 
 
-<div class="col-md-4 col-sm-6 col-12 mb-5 level" data-tags="scratch|" data-title="Codedetektiv 3" data-difficulty="4">
+
+<div class="col-md-4 col-sm-6 col-12 mb-5 level" data-tags="scratch|" data-title="Codedetektiv 3" data-difficulty="3">
     <div class="card h-100">
         
             
             <img class="card-img-top img-fluid" src="/level/codedetektiv3/image_hu42f3b8b35f6a9130d8a8f7d331c7d086_33097_480x360_fill_box_bottom_2.png" alt="Card Image">
         
         <div class="card-body">
-            <h4 class="card-title">Codedetektiv 3 <br> <span style="font-size: 1rem; font-style: italic">Experte</span></h4>
+            <h4 class="card-title">Codedetektiv 3 <br> <span style="font-size: 1rem; font-style: italic">Fortgeschritten</span></h4>
             <p class="card-text"><p>Bist du ein echter Codedetektiv und findest alle Fehler, die sich im Projekt Aquarium versteckt haben?</p>
 </p>
         </div>
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -578,7 +573,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -616,7 +611,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -656,7 +651,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -698,7 +693,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -736,7 +731,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -774,7 +769,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -812,7 +807,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -850,7 +845,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -892,7 +887,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -936,7 +931,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -976,7 +971,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -1014,7 +1009,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -1052,7 +1047,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -1090,7 +1085,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -1132,7 +1127,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -1170,7 +1165,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -1212,7 +1207,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     
@@ -1250,7 +1245,7 @@
         <div class="card-footer">
             <div class="btn-group">
                 <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Level öffnen
+                    Öffnen
                 </button>
                 <div class="dropdown-menu">
                     

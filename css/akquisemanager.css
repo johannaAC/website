@@ -1,0 +1,77 @@
+/*
+This file is embedded into all CRM web forms.
+ */
+#webform_Submit {
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    background: #1961ac;
+    border: 1px solid #1961ac;
+    color: white !important;
+    text-shadow: none;
+    box-shadow: none;
+}
+
+.ym-form div.ym-fbox-text input, .ym-form div.ym-fbox-text textarea {
+    display: block;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+
+.ym-form div.ym-fbox-text input:focus, .ym-form div.ym-fbox-text textarea:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #80bdff;
+    outline: 0;
+    box-shadow: 0 0 0 .1rem rgba(0, 123, 255, .25);
+}
+
+.ym-fbox-button {
+    background: none !important;
+}
+
+.ym-form label {
+    font-size: 18px;
+}
+
+body, h1, h2, h3, h4 {
+    font-family: 'Lato', sans-serif !important;
+}
+
+.eUnit {
+    display: none;
+}
+
+.ym-form legend {
+    margin-top: 10px;
+}
+
+a:hover, a:focus {
+    background-color: #1961ac;
+    color: #fff;
+    text-decoration: none;
+}
+
+.ui-widget-header {
+    border: 1px solid #1961ac;
+    background: #1961ac;
+    color: #ffffff;
+    font-weight: bold;
+}

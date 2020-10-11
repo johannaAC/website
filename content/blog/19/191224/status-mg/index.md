@@ -11,8 +11,8 @@ waren Geldgeber und Kunden gefunden. Es hatten sich für das erste Halbjahr dire
 IT4Kids an ihrer Schule haben wollten. Da unsere Kurse von Studenten geführt werden, sind wir sofort an die Hochschulen
 getreten und haben die ersten Kurse gestartet.
 
-Leider ist schon während der Kursleitersuche aufgefallen, dass die Resonanz der Studenten in Mönchengladbach schlechter
-ist als gewohnt. Nachdem die ersten drei Pilotkurse nun vorbei sind und wir unsere Kursleiterzahl aufstocken wollten, wurde
+Leider ist schon während der Kursleitungssuche aufgefallen, dass die Resonanz der Studenten in Mönchengladbach schlechter
+ist als gewohnt. Nachdem die ersten drei Pilotkurse nun vorbei sind und wir unsere Kursleitungszahl aufstocken wollten, wurde
 klar, dass wir in einigen Städten anders in den Dialog mit den Studenten treten müssen.
 
 In unserer Fehleranalyse sind wir vor allem darauf gestoßen, dass die Hochschule in Mönchengladbach einer 

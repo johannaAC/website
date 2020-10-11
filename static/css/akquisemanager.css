@@ -1,5 +1,6 @@
 /*
 This file is embedded into all CRM web forms.
+The link is done within our CRM software.
  */
 #webform_Submit {
     display: inline-block;

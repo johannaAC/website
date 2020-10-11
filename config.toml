@@ -50,7 +50,7 @@ copyright = "<span class=\"copyright\">Copyright &copy; <script>document.write(n
         weight = -20
 
       [[menu.main]]
-        name = "Für Kursleiter"
+        name = "Für Kursleitungen"
         parent = "Kursangebot"
         url = "/mitmachen/"
         weight = -10

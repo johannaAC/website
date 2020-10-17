@@ -16,4 +16,4 @@ tags:
   - tag: cubi
   - tag: scratch
 ---
-Fordere einen Mitschüler zum Wettrennen heraus! Wer haut am schnellsten in die Tasten?
+Fordere jemanden zum Wettrennen heraus! Wer haut am schnellsten in die Tasten?

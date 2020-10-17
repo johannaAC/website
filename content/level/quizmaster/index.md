@@ -16,4 +16,4 @@ tags:
   - tag: cubi
   - tag: scratch
 ---
-Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse deine Mitschüler die richtige Antwort herausfinden!
+Bist du ein Quizmaster? Stelle deine Fähigkeiten bei diesem Spiel unter Beweis und lasse andere die richtige Antwort herausfinden!

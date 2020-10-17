@@ -7,7 +7,7 @@ author: "IT4Kids"
 ---
 
 Am 07.11.2018 fand im Raum Aachen und Heinsberg die Medienroute statt.
-Dabei hatten Schulen und außerschulische Träger die Möglichkeit ihre Ideen und Produkte für Digitalbildung interessierten Lehrern vorzustellen.
+Dabei hatten Schulen und außerschulische Träger die Möglichkeit ihre Ideen und Produkte für Digitalbildung interessierten Lehrkräften vorzustellen.
 Wir waren natürlich mit einem Workshop im <a href="https://aachen.digital/">DigitalHub</a> mit dabei, und haben „Programmieren für Kinder – für Lehrer“ mit Scratch angeboten.
 
 Zuerst haben wir die Probleme an den jeweiligen Schulen besprochen, welche von der Ausstattung über fehlendes Personal bis hin zu fehlenden Kenntnissen im Kollegium reichten.

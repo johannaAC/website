@@ -8,7 +8,7 @@ author: "Johanna Tolzmann"
 
 **Mathebücher weg, holt die Laptops raus!** - Ein Einblick in den Kursalltag.
 
-Du wolltest immer schon mal wissen, wie der Alltag eines Kursbetreuers bei IT4Kids aussieht? Dann bist du hier genau richtig. Ich möchte dich mit in unsere Abschlussstunde an der GGS Brander Feld in Aachen nehmen.
+Du wolltest immer schon mal wissen, wie der Alltag einer Kursleitung bei IT4Kids aussieht? Dann bist du hier genau richtig. Ich möchte dich mit in unsere Abschlussstunde an der GGS Brander Feld in Aachen nehmen.
 So wie die letzten neun Dienstage, treffen Joel, David und ich uns heute Vormittag in der GGS Brander Feld. Die beiden sind schon dabei, die Laptops für die Stunde aufzubauen. Heute führen die Kinder ihren Klassenkameraden das Projekt vor, das sie während unseres Kurses besonders liebgewonnen haben. Joel und David studieren so wie ich an der RWTH Aachen und haben sich von IT4Kids zu Kursleitungen ausbilden lassen. Auch wenn die ersten Kursstunden herausfordernd waren, weil die Kinder Zeit brauchen, um mit der Software und der Idee des Programmierens warm zu werden, hat uns dreien der Kurs insgesamt sehr viel Spaß gemacht und wir sind gespannt auf die Präsentationen unserer Kids.
 
 Da stürmen sie schon zur Tür herein und schauen uns mit großen Augen an, als wir erklären, dass wir heute einen gemeinsamen Start im Klassenraum machen. „Programmieren wir dann heute nicht?“, fragt mich eine Schülerin ein wenig enttäuscht. „Ihr könnt heute den anderen zeigen, was ihr die letzten Wochen programmiert habt“, antworte ich ihr. Die Antwort ist kurz, drückt aber volle Zustimmung aus: „Cool!“

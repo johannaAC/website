@@ -7,12 +7,13 @@ links:
     url: https://editor.it-for-kids.org/?level=https://raw.githubusercontent.com/IT4Kids/levels/master/Templates/Trampolin.cubi
   - name: Cubi Lösung
     url: https://editor.it-for-kids.org/?level=https://raw.githubusercontent.com/IT4Kids/levels/master/Solutions/Trampolin.cubi
-  - name: Vorlage
+  - name: Scratch Vorlage
     url: https://scratch.mit.edu/projects/55890960/
-  - name: Lösung
+  - name: Scratch Lösung
     url: https://scratch.mit.edu/projects/55890888/
 difficulty: 3
 tags:
   - tag: scratch
+  - tag: cubi
 ---
 Lasse die Katze auf dem Trampolin immer höher und höher in den Himmel springen. Kannst du ihr sogar einen Looping beibringen?

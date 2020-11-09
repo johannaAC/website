@@ -16,6 +16,10 @@ Vertreten durch den Vorstand:
 - Fynn Mazurkiewicz, Erster Vorsitzender
 - Johanna Tolzmann, Zweite Vorsitzende
 
+Konto IT4Kids e.V.:
+- IBAN: DE33 3905 0000 1073 5595 18
+- BIC: AACSDE33XXX, Sparkasse Aachen
+
 Dieses Impressum gilt auch für folgende Social-Media-Auftritte:
 
 - Instagram: https://www.instagram.com/it4kids.ac

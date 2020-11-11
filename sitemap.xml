@@ -2,12 +2,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://it-for-kids.org/status/2019/q3/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>https://it-for-kids.org/status/2020/q3/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://it-for-kids.org/status/</loc>
+    <lastmod>2020-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://it-for-kids.org/status/2019/q3/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url>
   

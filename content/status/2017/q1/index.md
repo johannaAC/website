@@ -11,6 +11,6 @@ regularCustomerCount: 0
 licensedCustomerCount: 0
 eventCustomerCount: 0
 stateCount: 1
-studentCount: 6
-newStudentCount: 2
+studentCount: 12
+newStudentCount: 3
 ---

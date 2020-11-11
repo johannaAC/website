@@ -1,5 +1,5 @@
 ---
-title: "IT4Kids: Neues für Partner"
+title: "Status für Partner: 2019 Q3 & Q4"
 description: "Dank starken Partnern haben wir 1200 Kids Zugang zu digitaler Bildung geben können."
 date: 2020-01-01T00:00:00+00:00
 startDate: 2019-06-01T00:00:00+00:00
@@ -12,6 +12,6 @@ regularCustomerCount: 6
 licensedCustomerCount: 3
 eventCustomerCount: 2
 stateCount: 2
-studentCount: 41
-newStudentCount: 23
+studentCount: 80
+newStudentCount: 15
 ---

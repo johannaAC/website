@@ -5,7 +5,7 @@ date: 2020-11-01T00:00:00+00:00
 startDate: 2020-01-01T00:00:00+00:00
 draft: false
 author: "IT4Kids"
-kidsCount: 3500
+kidsCount: 2500
 customerCount: 20
 ogsCustomerCount: 8
 regularCustomerCount: 3

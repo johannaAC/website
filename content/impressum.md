@@ -7,7 +7,7 @@ draft: false
 #### IT4Kids e.V.
 
 Adalbertstraße 37 \
-52072 Aachen \
+52062 Aachen \
 Sitz des Vereins ist Aachen \
 Registergericht Amtsgericht Aachen \
 VR 6008

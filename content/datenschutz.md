@@ -13,7 +13,7 @@ Damit Sie wissen, an wen Sie sich wenden können, wenn es um Ihre Daten geht, te
 Enactus Aachen e.V., vertreten durch den Vorstand\
 c/o WIN Lehrstuhl\
 Kackertstraße 7\
-52072 Aachen
+52062 Aachen
 
 <info@aachen.enactus.de>
 

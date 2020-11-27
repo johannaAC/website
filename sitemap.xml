@@ -2,6 +2,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://it-for-kids.org/datenschutz/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://it-for-kids.org/</loc>
+    <lastmod>2020-11-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://it-for-kids.org/status/2020/q3/</loc>
     <lastmod>2020-11-01T00:00:00+00:00</lastmod>
   </url>
@@ -34,11 +44,6 @@
   <url>
     <loc>https://it-for-kids.org/blog/2019/12/it4kids-bald-in-allen-aachener-grundschulen/</loc>
     <lastmod>2019-12-04T11:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://it-for-kids.org/</loc>
-    <lastmod>2019-11-03T12:00:00+02:00</lastmod>
   </url>
   
   <url>
@@ -284,11 +289,6 @@
   <url>
     <loc>https://it-for-kids.org/status/2017/q1/</loc>
     <lastmod>2017-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://it-for-kids.org/datenschutz/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>&lt;span class=&#34;copyright&#34;&gt;Copyright &amp;copy; &lt;script&gt;document.write(new Date().getFullYear())&lt;/script&gt; IT4Kids&lt;/span&gt;</copyright>
-    <lastBuildDate>Sun, 03 Nov 2019 12:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://it-for-kids.org/index.xml" rel="self" type="application/rss+xml" />
     
@@ -136,6 +136,18 @@
       
       <guid></guid>
       <description>Kursorganisation</description>
+    </item>
+    
+    <item>
+      <title>Datenschutz</title>
+      <link>https://it-for-kids.org/datenschutz/</link>
+      <pubDate>Wed, 25 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://it-for-kids.org/datenschutz/</guid>
+      <description>Allgemeiner Teil Verantwortlicher und Datenschutzbeauftragter  Verantwortlicher
+IT4Kids e.V.
+Kontaktdaten des Datenschutzbeauftragten:
+datenschutz@it-for-kids.org Erfassung allgemeiner Daten und Informationen  Sofern Du unsere Webseite besuchst, werden die Internetverbindungsdaten, die Dein Browser an unseren Server übermittelt, verarbeitet. Unsere Webseite erfasst mit jedem Aufruf eine Reihe von allgemeinen Daten und Informationen. Erfasst werden dabei:  IP-Adresse Internet-Service-Provider Verwendete Software (Betriebssystem, Browser) Referenz-Daten Datum und Uhrzeit  Links  Unsere Webseite enthält Links auf andere Internetseiten.</description>
     </item>
     
     <item>
@@ -651,18 +663,6 @@ Haftungshinweis: Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir kein
       
       <guid>https://it-for-kids.org/status/2017/q1/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://it-for-kids.org/datenschutz/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://it-for-kids.org/datenschutz/</guid>
-      <description>Datenschutz Die folgende Datenschutzerklärung erläutert dabei insbesondere, welche personenbezogenen Daten wir in welcher Weise verarbeiten, wie lange Ihre Daten gespeichert werden und welche Rechte Ihnen zustehen können.
-I. Verantwortlicher: Damit Sie wissen, an wen Sie sich wenden können, wenn es um Ihre Daten geht, teilen wir Ihnen zunächst mit, wer für die Verarbeitung rechtlich die Verantwortung trägt und wer konkreter Ansprechpartner für Ihre Belange ist.
-Rechtlicher Verantwortlicher:
-Enactus Aachen e.V., vertreten durch den Vorstand</description>
     </item>
     
     <item>
